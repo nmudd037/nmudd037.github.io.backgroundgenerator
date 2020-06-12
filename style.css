@@ -38,7 +38,7 @@ h3 {
 
 .btn{
     padding: 10px;
-    font-weight: 400;
+    font: 400 1.5em 'Raleway', sans-serif;
     font-variant: small-caps;
 }
 
@@ -50,13 +50,20 @@ h1 {
 
 h2 {
     font: 500 1em 'Raleway', sans-serif;
+    font-variant: small-caps;	
 }
 	
 .labelcolor {
     font: 800 0.75em 'Raleway', sans-serif;
+    font-variant: small-caps;
 }
 
 h3 {
     font: 900 0.75em 'Raleway', sans-serif;
+}
+.btn{
+    padding: 8px;
+    font: 400 1em 'Raleway', sans-serif;
+    font-variant: small-caps;
 }
 }
